@@ -1,5 +1,5 @@
 # Here is an example for git diff #
 
-There are ways that this can be 
+There are ways that this can worked around
 
-im adding this line
+I want to tell people to eat cheese
