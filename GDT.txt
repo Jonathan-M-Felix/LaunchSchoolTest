@@ -1,0 +1,5 @@
+# Here is an example for git diff #
+
+There are ways that this can be 
+
+im adding this line
